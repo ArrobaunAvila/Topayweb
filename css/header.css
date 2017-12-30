@@ -1,0 +1,22 @@
+/**
+Header.css estilos al ecabezado de mi app
+*/
+
+
+.payweb-container{
+	width: 100%;
+}
+
+.app-header{
+	margin-bottom: 20px;
+	height: 80px;
+	margin: 0;
+}
+#title{
+	font-family: 'Roboto', sans-serif;
+	color:  #81f4e1;
+	line-height: 10vh;
+	margin-left: 40px;
+	font-size: 50px;
+	margin-top: 20px;
+}
